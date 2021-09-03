@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="name">Name</string>
+    <string name="txt_real_name">RealName</string>
+    <string name="txt_team">Team</string>
+    <string name="txt_first_appearance">First Appearance</string>
+    <string name="txt_created_by">CreatedBy</string>
+    <string name="txt_publisher">Publisher</string>
+    <string name="txt_bio">Bio</string>
+</resources>
